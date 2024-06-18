@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Merge upstream
         run: |
-          git config --global user.name 'XenoM0rph97'
-          git config --global user.email 'XenoM0rph97@users.noreply.github.com'
+          git config --global user.name 'apasinamzn'
+          git config --global user.email 'apasinamzn@users.noreply.github.com'
 
           # "git checkout master" is unnecessary, already here by default
           git pull --unshallow  # this option is very important, you would get
