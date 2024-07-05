@@ -1,12 +1,12 @@
 {
-  "fetchTime": "2024-07-04T00:50:59.865Z",
+  "fetchTime": "2024-07-04T22:44:02.427Z",
   "numberOfChanges": 1,
   "new": [
     {
-      "cveId": "CVE-2024-38471",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2024-38471",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2024/38xxx/CVE-2024-38471.json",
-      "dateUpdated": "2024-07-04T00:49:13.216Z"
+      "cveId": "CVE-2024-39943",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2024-39943",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2024/39xxx/CVE-2024-39943.json",
+      "dateUpdated": "2024-07-04T22:39:04.461769"
     }
   ],
   "updated": [],
